@@ -1,0 +1,103 @@
+<view class="container">
+  <view class="main-content">
+    <view class="cancel-list">
+
+
+      <view class="cancel-item">
+        <view class="cancel-top">
+          <view class="cancel-title">沙井极速赛车场</view>
+          <view class="cancel-sub">普通车80cc</view>
+          <view class="cancel-date">2019/11/20</view>
+        </view>
+        <view class="cancel-bottom">
+          <view class="cancel-bottom-list">
+            <view class="bottom-item">
+              <view class="item-text">宋江</view>
+              <view class="item-info">17635470263</view>
+            </view>
+            <view class="bottom-item">
+              <view class="item-text">300元</view>
+              <view class="item-info">100元/节*3</view>
+            </view>
+            <view class="bottom-item">
+              <view class="item-text">周一</view>
+              <view class="item-info">14:29</view>
+            </view>
+
+
+          </view>
+        </view>
+      </view>
+      <view class="cancel-item">
+        <view class="cancel-top">
+          <view class="cancel-title">沙井极速赛车场</view>
+          <view class="cancel-sub">普通车80cc</view>
+          <view class="cancel-date">2019/11/20</view>
+        </view>
+        <view class="cancel-bottom">
+          <view class="cancel-bottom-list">
+            <view class="bottom-item">
+              <view class="item-text">宋江</view>
+              <view class="item-info">17635470263</view>
+            </view>
+            <view class="bottom-item">
+              <view class="item-text">300元</view>
+              <view class="item-info">100元/节*3</view>
+            </view>
+            <view class="bottom-item">
+              <view class="item-text">周一</view>
+              <view class="item-info">14:29</view>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="cancel-item">
+        <view class="cancel-top">
+          <view class="cancel-title">沙井极速赛车场</view>
+          <view class="cancel-sub">普通车80cc</view>
+          <view class="cancel-date">2019/11/20</view>
+        </view>
+        <view class="cancel-bottom">
+          <view class="cancel-bottom-list">
+            <view class="bottom-item">
+              <view class="item-text">宋江</view>
+              <view class="item-info">17635470263</view>
+            </view>
+            <view class="bottom-item">
+              <view class="item-text">300元</view>
+              <view class="item-info">100元/节*3</view>
+            </view>
+            <view class="bottom-item">
+              <view class="item-text">周一</view>
+              <view class="item-info">14:29</view>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="cancel-item">
+        <view class="cancel-top">
+          <view class="cancel-title">沙井极速赛车场</view>
+          <view class="cancel-sub">普通车80cc</view>
+          <view class="cancel-date">2019/11/20</view>
+        </view>
+        <view class="cancel-bottom">
+          <view class="cancel-bottom-list">
+            <view class="bottom-item">
+              <view class="item-text">宋江</view>
+              <view class="item-info">17635470263</view>
+            </view>
+            <view class="bottom-item">
+              <view class="item-text">300元</view>
+              <view class="item-info">100元/节*3</view>
+            </view>
+            <view class="bottom-item">
+              <view class="item-text">周一</view>
+              <view class="item-info">14:29</view>
+            </view>
+          </view>
+        </view>
+      </view>
+
+    </view>
+  </view>
+</view>

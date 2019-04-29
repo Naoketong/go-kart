@@ -1,0 +1,36 @@
+<view class="page-container">
+
+	<view class="main-content"><!-- 主要内容 -->
+		<view class="banner-section">
+			<image class="banner-img" src="../image/WechatIMG1833.png"></image>
+			<view class="banner-title">
+				<view class="banner-subhead">沙井极速赛车场<span class="banner-subhead-info">深圳</span></view>
+				<view class="banner-text">管理员/前台</view>
+			</view>
+		</view>
+	</view>
+
+	<view class="manage-list">
+		<view class="manage-item" >
+			<view class="manage-icon"><image class="manage-icons" src="../image/personage2.png"></image></view>
+			<text class="manage-teext">核销记录</text>
+			<image class="manage-goto-icon" src="../image/icon_more.png"></image>
+		</view>
+		<view class="manage-item" >
+			<view class="manage-icon"><image class="manage-icons" src="../image/personage4.png"></image></view>
+			<text class="manage-teext">核销记录</text>
+			<image class="manage-goto-icon" src="../image/icon_more.png"></image>
+		</view>
+	</view>
+
+	<view class="footer-section">
+		<view class="footer-item">扫一扫</view>
+		<view class="footer-item active">管理中心</view>
+	</view>
+
+
+
+
+
+</view>
+

@@ -1,0 +1,84 @@
+<view class="page-container active"><!-- 过在class添加active，人员管理弹窗 -->
+  <view class="page-shade">
+    <view class="shade-section">
+      <view class="shade-title">
+        你要将<text class="shade-name">易静静</text>添加为难度运营人员吗？
+      </view>
+      <view class="shade-button">
+        <view class="shade-button cancel">取消</view>
+        <view class="shade-button affirm">确认</view>
+      </view>
+      
+    </view>
+  </view>
+  <view class="main-content">
+    <view class="head-inputbox active"><!-- 通过在class添加active更改状态 -->
+      <image class="head-input-icon" src="../image/icon_search.png"></image>
+      <image class="head-input-icondel" src="../image/icon_del.png"></image>
+      <input class="head-input" type="text" placeholder="添加手机号，搜索运营人员" />
+      <view class="headinput-cancel">取消</view>
+    </view><!-- 头部输入框 -->
+
+    <view class="personnel-list" style="display: none;">
+      <view class="personnel-item"><!-- 删除向左滑动160rpx -->
+        <view class="personnel-item-left">
+          <image class="personnel-img" src="../exampleMap/Copy.png"></image>
+          <view class="personnel-item-text">
+            <view class="personnel-text-english">Oren Padberg</view>
+            <view class="personnel-text-chinese">易静静</view>
+            <view class="personnel-text-phone">13623049122</view>
+          </view>
+          <view class="personnel-designation">管理员</view>
+        </view>
+        <view class="personnel-item-right">删除</view><!-- 删除向左滑动显示层 -->
+      </view>
+      <view class="personnel-item">
+        <view class="personnel-item-left">
+          <image class="personnel-img" src="../exampleMap/Copy.png"></image>
+          <view class="personnel-item-text">
+            <view class="personnel-text-english">Oren Padberg</view>
+            <view class="personnel-text-chinese">易静静</view>
+            <view class="personnel-text-phone">13623049122</view>
+          </view>
+          <view class="personnel-designation">前台</view>
+        </view>
+        <view class="personnel-item-right">删除</view>
+      </view>
+      <view class="personnel-item">
+        <view class="personnel-item-left">
+          <image class="personnel-img" src="../exampleMap/Copy.png"></image>
+          <view class="personnel-item-text">
+            <view class="personnel-text-english">Oren Padberg</view>
+            <view class="personnel-text-chinese">易静静</view>
+            <view class="personnel-text-phone">13623049122</view>
+          </view>
+          <view class="personnel-designation">前台</view>
+        </view>
+        <view class="personnel-item-right">删除</view>
+      </view>
+      <view class="personnel-item">
+        <view class="personnel-item-left">
+          <image class="personnel-img" src="../exampleMap/Copy.png"></image>
+          <view class="personnel-item-text">
+            <view class="personnel-text-english">Oren Padberg</view>
+            <view class="personnel-text-chinese">易静静</view>
+            <view class="personnel-text-phone">13623049122</view>
+          </view>
+          <view class="personnel-designation">前台</view>
+        </view>
+        <view class="personnel-item-right">删除</view>
+      </view>        
+    </view><!-- 中部人员显示层 -->
+
+    <view class="add-personnel">
+      <view class="add-personnel-item">
+        <image class="add-personnel-img" src="../exampleMap/personage.png"></image>
+        <view class="personnel-name">贺勃影</view>
+        <image class="add-personnel-icon" src="../image/icon_add.png"></image>
+      </view>
+    </view>
+
+
+
+  </view>
+</view>
